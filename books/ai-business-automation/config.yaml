@@ -8,3 +8,14 @@ topics:
   - 副業
 price: 500
 published: false
+chapters:
+  - intro
+  - ch01-concept
+  - ch02-stop-conditions
+  - ch03-asset-inventory
+  - ch04-business-selection
+  - ch05-production
+  - ch06-quality-audit
+  - ch07-distribution
+  - ch08-improvement-loop
+  - outro
