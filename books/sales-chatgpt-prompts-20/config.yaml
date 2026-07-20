@@ -8,3 +8,11 @@ topics:
   - AI活用
 price: 500
 published: true
+chapters:
+  - intro
+  - ch01-mail
+  - ch02-proposal
+  - ch03-research
+  - ch04-daily
+  - ch05-advanced
+  - outro
